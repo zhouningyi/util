@@ -1,0 +1,17 @@
+{
+  "name": "util",
+  "main": "util.js",
+  "version": "0.0.0",
+  "authors": [
+    "野狩 <ningyi.zny@alibaba-inc.com>"
+  ],
+  "description": "移动开发遇到的常用功能",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
