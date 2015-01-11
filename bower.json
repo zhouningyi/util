@@ -1,7 +1,7 @@
 {
   "name": "util",
   "main": "util.js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
     "野狩 <ningyi.zny@alibaba-inc.com>"
   ],
